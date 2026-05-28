@@ -1,5 +1,5 @@
 ## Olá 👋
-Meu nome é Valentina e atualmente estou realizando o curso de Programador Full Stack no SENAI. Tenho grande interesse pela área de tecnologia e desenvolvimento de software, buscando constantemente aprender novas ferramentas e aprimorar minhas habilidades em programação. Sou dedicada, proativa e motivada a crescer profissionalmente na área de desenvolvimento Full Stack.
+Meu nome é Valentina e atualmente estou realizando o curso de Programador Full Stack no SENAI. Tenho grande interesse pela área de tecnologia, buscando constantemente aprender novas ferramentas e aprimorar minhas habilidades em programação. Sou dedicada, proativa e motivada a crescer profissionalmente na área de desenvolvimento Full Stack.
 
 ## 📫 Contato
 
